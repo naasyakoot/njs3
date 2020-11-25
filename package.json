@@ -1,0 +1,8 @@
+{
+  "name": "njs3",
+  "version": "1.0.0",
+  "description": "test njs3",
+  "main": "js.js",
+  "Vue3": "vue3.0.2.global.js",
+  "author": "tester"
+}
